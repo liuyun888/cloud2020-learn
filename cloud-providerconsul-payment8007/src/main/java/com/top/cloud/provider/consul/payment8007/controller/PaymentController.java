@@ -1,8 +1,8 @@
-package com.top.cloud.provider.consul.payment8006.controller;
+package com.top.cloud.provider.consul.payment8007.controller;
 
 import com.top.cloud.api.common.entities.Payment;
 import com.top.cloud.api.common.result.CommonResult;
-import com.top.cloud.provider.consul.payment8006.service.PaymentService;
+import com.top.cloud.provider.consul.payment8007.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import javax.annotation.Resource;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 

@@ -8,10 +8,10 @@
         <version>1.0</version>
     </parent>
     <groupId>com.top</groupId>
-    <artifactId>cloud-providerconsul-payment8006</artifactId>
+    <artifactId>cloud-providerconsul-payment8007</artifactId>
     <version>1.0</version>
-    <name>cloud-providerconsul-payment8006</name>
-    <description>Demo project for cloud-providerconsul-payment8006</description>
+    <name>cloud-providerconsul-payment8007</name>
+    <description>Demo project for cloud-providerconsul-payment8007</description>
 
     <properties>
         <java.version>1.8</java.version>
